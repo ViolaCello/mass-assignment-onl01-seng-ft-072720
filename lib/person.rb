@@ -1,6 +1,6 @@
 class Person
   #your code here
-  attr_accessor :weight, :handed, :complexion, :t_shirt_size, 
+  attr_accessor :weight, :handed, :complexion, :t_shirt_size, :name, :birthday, :hair_color, :eye_color, :height, 
   
   
   
